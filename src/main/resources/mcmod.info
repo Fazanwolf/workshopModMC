@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mcmod",
+  "name": "MC Mod",
+  "description": "UwU.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AnthonyVIENNE"],
+  "credits": "The Forge and FML guys, and NOBODY.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
